@@ -20,8 +20,15 @@ describe('angularjs homepage', function () {
 
         it('should add a todo', function () {
             page.addTodo('write a protractor test');
-            expect(page.todoList.count()).toEqual(3);
-            expect(page.todoAt(2)).toEqual('write a protractor test');
+            page.addTodo('write a protractor test 2');
+            expect(page.todoList.count()).toEqual(4);
+            expect(page.todoAt(3)).toEqual('write a protractor test 2');
+        });
+    });
+    describe('search project', function () {
+
+        it('should search a project', function () {
+            page.searchProject('project');
         });
     });
 });

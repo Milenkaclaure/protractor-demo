@@ -1,10 +1,12 @@
 describe('angularjs homepage', function() {
     it('should greet the named user', function() {
-        // Load the AngularJS homepage.
-        browser.get('http://www.angularjs.org');
-        element(by.model('yourName')).sendKeys('Mile');
-        var greeting = element(by.binding('yourName'));
+        browser.driver.ignoreSynchronization = true;
+        browser.waitForAngularEnabled(false);
+        browser.get('https://www.google.com');
 
-        expect(greeting.getText()).toEqual('Hello Mile!');
+       var element = browser.driver.findElement(by.id("lst-ib"));
+        element.sendKeys("protractor", protractor.Key.ENTER);
+        browser.sleep(200);
+
     });
 });
