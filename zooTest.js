@@ -15,11 +15,11 @@ describe('Testing an animal adoption flow using page object', function() {
         var animal_page = home_page.clickContinue();
 
         animal_page.selectAnimal(1);
-        animal_page.clickContinue();
 
-        /*
+
+
         var confirm_page = animal_page.clickContinue();
 
-        expect(confirm_page.getTitle()).toContain('Thank');*/
+        expect(confirm_page.getTitle()).toContain('Thank');
     });
 });

@@ -16,6 +16,6 @@ module.exports = {
     clickContinue: function() {
         var todo = this.toDo;
         todo.continueButton.click();
-        //return require('./confirm_page.js');
+        return require('./confirm_page.js');
     }
 };

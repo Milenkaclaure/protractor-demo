@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6774dae9-5cd8-4230-b353-74515b274eb1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/animal_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/confirm_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/home_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zooTest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/AngularPage.js" afterPath="$PROJECT_DIR$/pages/AngularPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.js" afterPath="$PROJECT_DIR$/conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/googletest.js" afterPath="$PROJECT_DIR$/googletest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test2.js" afterPath="$PROJECT_DIR$/test2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/animal_page.js" afterPath="$PROJECT_DIR$/pages/animal_page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/confirm_page.js" afterPath="$PROJECT_DIR$/pages/confirm_page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zooTest.js" afterPath="$PROJECT_DIR$/zooTest.js" />
     </list>
     <ignored path="protractor-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,17 +30,17 @@
         <entry file="file://$PROJECT_DIR$/pages/home_page.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animal_page.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="animal_page.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/animal_page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.39054054">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -58,19 +50,27 @@
         <entry file="file://$PROJECT_DIR$/pages/confirm_page.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zooTest.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AngularPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/AngularPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zooTest.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zooTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2527027">
-              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/pages/Zoopage.js" />
         <option value="$PROJECT_DIR$/conf.js" />
         <option value="$PROJECT_DIR$/pages/home_page.js" />
-        <option value="$PROJECT_DIR$/pages/animal_page.js" />
         <option value="$PROJECT_DIR$/pages/confirm_page.js" />
+        <option value="$PROJECT_DIR$/pages/animal_page.js" />
         <option value="$PROJECT_DIR$/zooTest.js" />
       </list>
     </option>
@@ -488,16 +488,16 @@
       <updated>1500304820680</updated>
       <workItem from="1500304822489" duration="16857000" />
       <workItem from="1500382091830" duration="19171000" />
-      <workItem from="1500467779104" duration="4868000" />
+      <workItem from="1500467779104" duration="5573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40896000" />
+    <option name="totallyTimeSpent" value="41601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -509,7 +509,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.211875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.211875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -715,14 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/AngularPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/googletest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.022972973">
@@ -739,10 +731,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home_page.js">
+    <entry file="file://$PROJECT_DIR$/pages/AngularPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -750,25 +742,31 @@
     <entry file="file://$PROJECT_DIR$/pages/confirm_page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/animal_page.js">
+    <entry file="file://$PROJECT_DIR$/pages/home_page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="17" />
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zooTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2527027">
-          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/animal_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39054054">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding />
         </state>
       </provider>
